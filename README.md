@@ -7,11 +7,11 @@ To use this tool, simply import the package into your Unity project. Once import
 ## How to use ## 
 To use Unity Project Setup Tool, follow these steps:
 
-1.Import the package
-2.Click on the "Tools" button at the top bar.
-3.Select "Setup/Create Default Folders" to create the Design, Scenes, and Scripts folders inside a Project directory
-4.Select "Info/Get Path" " to obtain the default file path for the project.
-5.Select "Setup/Create Editor" or "Setup/Create Resources Folder" to create an Editor folder and a Resources folder inside the Project directory.
+* Import the package
+* Click on the "Tools" button at the top bar.
+* Select "Setup/Create Default Folders" to create the Design, Scenes, and Scripts folders inside a Project directory
+* Select "Info/Get Path" " to obtain the default file path for the project.
+* Select "Setup/Create Editor" or "Setup/Create Resources Folder" to create an Editor folder and a Resources folder inside the Project directory.
 
 
 # Credits & Licenss #
