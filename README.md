@@ -4,7 +4,7 @@
 ## Installation ##
 To use this tool, simply import the package into your Unity project. Once imported, a "Tools" button will be generated at the top bar, providing access to all the available options.
 
-## How to add adb to path ## 
+## How to use ## 
 To use Unity Project Setup Tool, follow these steps:
 
 1.Import the package
