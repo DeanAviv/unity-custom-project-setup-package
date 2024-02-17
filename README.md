@@ -1,5 +1,5 @@
-# Unity Project Setup Tool #
-### Unity Project Setup Tool is a package that streamlines the setup process for new Unity projects. It provides a convenient way to generate the base directories for a project, create an Editor folder, a Resources folder, and get the default file path for the project. ###
+# Unity Project Setup Package #
+### This is a package that streamlines the setup process for new Unity projects. It provides a convenient way to generate the base directories for a project, create an Editor folder, a Resources folder, and get the default file path for the project. ###
 
 ## Installation ##
 To use this tool, simply import the package into your Unity project. Once imported, a "Tools" button will be generated at the top bar, providing access to all the available options.
